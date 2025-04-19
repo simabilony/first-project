@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "name": "Sima Ahmed",
+      "studentId": 101,
+      "class": "10A",
+      "age": 16,
+      "contact": {
+        "email": "sima@example.com",
+        "phone": "+123456789",
+        "address": "Aleppo, Syria"
+      },
+      "academic": {
+        "subjects": ["Math", "Science", "History"],
+        "grades": {"Math": "A", "Science": "B", "History": "A"},
+        "projects": ["Water Analysis"]
+      },
+      "activities": {
+        "hobbies": ["Reading", "Photography"],
+        "competitions": ["National Science Fair"]
+      },
+      "notes": "Excellent team player."
+    }
+  ]
+}
